@@ -1,0 +1,22 @@
+2026-10-10 01:06:20 start: launcher v1.1.1 (windows, portable), webview 154.0.4258.62, data C:\Users\gamer\Downloads\DRSimData
+2026-10-10 01:06:21 manifest https://deltarunesim.com/desktop/manifest.json: v0.9.15 (3028 files)
+2026-10-10 01:06:21 check: v0.9.15 from https://deltarunesim.com; 2496 files / 656547749 bytes to download
+2026-10-10 01:06:52 sync: v0.9.15 into C:\Users\gamer\Downloads\DRSimData\game
+2026-10-10 01:08:27 sync: done
+2026-10-10 01:08:28 play: windowed window, 880x660
+2026-10-10 01:08:28 discord: not reachable (failed to connect to IPC socket); trying again later
+2026-10-10 01:10:15 priority: above normal for 10 processes
+2026-10-10 01:10:55 priority: normal for 10 processes
+2026-10-10 01:11:16 priority: above normal for 10 processes
+2026-10-10 01:13:10 priority: normal for 10 processes
+2026-10-10 01:13:42 priority: above normal for 10 processes
+2026-10-10 01:13:52 priority: normal for 10 processes
+2026-10-10 01:13:59 priority: above normal for 10 processes
+2026-10-10 01:14:04 priority: normal for 10 processes
+2026-10-10 01:14:17 priority: above normal for 10 processes
+2026-10-10 01:14:56 game: closed
+2026-10-10 01:14:56 priority: normal for 10 processes
+2026-10-10 01:14:56 manifest https://deltarunesim.com/desktop/manifest.json: v0.9.15 (3028 files)
+2026-10-10 01:14:56 check: v0.9.15 from https://deltarunesim.com; 0 files / 0 bytes to download
+2026-10-10 01:14:57 game: pre-warming (hidden)
+2026-10-10 01:14:59 quit
